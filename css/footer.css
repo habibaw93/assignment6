@@ -1,0 +1,19 @@
+.footer {
+    padding: 32px;
+    height: 92px;
+    background-color: #f2f2f2;
+}
+
+.footer a {
+    margin-top: 32px;
+    text-decoration: none;
+
+    color: #333;
+    text-transform: uppercase;
+ 
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}

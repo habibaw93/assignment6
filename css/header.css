@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    background-color: #f2f2f2;
+}
+
+.header .icon {
+    padding: 16px 0;
+}
+
+.header .icon .chiniot {
+    font-size: 32px;
+    padding-bottom: 8px;
+}
+
+.header .icon .phrase {
+    font-size: 12px;
+}
